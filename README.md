@@ -1,6 +1,11 @@
-![tests workflow](https://code.harvard.edu/CS107/team38/actions/workflows/tests.yml/badge.svg)
+![tests workflow](https://github.com/F1erCS/autodiff/actions/workflows/tests.yml/badge.svg)
 
-![codeCoverage workflow](https://code.harvard.edu/CS107/team38/actions/workflows/codeCoverage.yml/badge.svg)
+![codeCoverage workflow](https://github.com/F1erCS/autodiff/actions/workflows/codeCoverage.yml/badge.svg)
+
+<!-- ![tests workflow](https://code.harvard.edu/CS107/team38/actions/workflows/tests.yml/badge.svg)
+
+![codeCoverage workflow](https://code.harvard.edu/CS107/team38/actions/workflows/codeCoverage.yml/badge.svg) -->
+
 
 
 # Autodiff Package
